@@ -13,7 +13,18 @@ Logo
 Icon
 =====
 ![DataMeet Icon](https://raw.githubusercontent.com/datameet/logo/master/datameet_icon_v.1.2.png)
-Is a smaller version of the main logo. It will be a simple document icon between the curly braces.
+- Is a smaller version of the main logo. It will be a simple document icon between the curly braces.
+
+Twitter profile
+================
+![DataMeet Icon](https://raw.githubusercontent.com/datameet/logo/master/datameet_logo_twitter_url.png)
+- Same as Icon but has url at the bottom
+
+Text
+====
+
+Data{Meet}
+==========
 
 
 Credits
